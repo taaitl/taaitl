@@ -1,3 +1,7 @@
+![banner1.jpg]
+
+<br>
+
 # ABOUT ME
 
 I've been a photographer and videographer for over four years, and along the way, I came to appreciate the technology that I work with. From industry-standard post-production software to intricate camera sensor systems, there's plenty to understand, build, and experiment.
