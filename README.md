@@ -1,16 +1,21 @@
-## Hi there 👋
+# ABOUT ME
 
-<!--
-**taaitl/taaitl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been a photographer and videographer for over four years, and along the way, I came to appreciate the technology that I work with. From industry-standard post-production software to intricate camera sensor systems, there's plenty to understand, build, and experiment.
 
-Here are some ideas to get you started:
+As Theo Jansen once said:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> The walls between art and engineering exist only in our minds.
+
+This is where that notion comes to life. From the hardware and tools that make my shooting process easier, to custom design tools and plugins that enables me to become experimental with my work, turning photos and videos into art pieces. You can check out what I've been up to down below. 
+
+Interested? Follow along for the journey.
+
+<p align="center">
+  「 认真生活的人都在一门心思搞艺术 」
+</p>
+
+# CURRENTLY WORKING
+1. 
+
+# RECENT PROJECTS
+1. 
