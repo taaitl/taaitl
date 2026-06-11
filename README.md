@@ -1,4 +1,6 @@
-![](banner1.jpg)
+<p align="center">
+  <img src="assets/banner1.jpg" alt="Banner">
+</p>
 
 <br>
 
