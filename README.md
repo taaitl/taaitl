@@ -22,8 +22,6 @@ Interested? Follow along for the journey.
   <a href="https://www.flickr.com/people/taitl/">Flickr</a>
 </p>
 
-<br>
-
 <p align="center">
   「 认真生活的人都在一门心思搞艺术 」
 </p>
