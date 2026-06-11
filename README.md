@@ -22,6 +22,10 @@ This is where that notion comes to life. From the hardware and tools that make m
 
 Interested? Follow along for the journey.
 
+<p align="center">
+  [Website](https://studiooftait.mypixieset.com/) - [LinkedIn](https://www.linkedin.com/in/taitleong/) - [Medium](https://medium.com/@taitl) - [Instagram](https://instagram.com/taaitl) - [Flickr](https://www.flickr.com/people/taitl/)
+</p>
+
 <br>
 
 <p align="center">
